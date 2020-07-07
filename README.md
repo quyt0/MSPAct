@@ -9,7 +9,7 @@ Script hỗ trợ kích hoạt bản quyền Windows &amp; Office
 + Trừ trường hợp sao lưu (backup) bản quyền thì script sẽ tạo ra 01 folder có tên là MSPBackup để chứa các thông tin bản quyền
 + Script này có các chức năng cơ bản tương tự như phần mềm MSAct của tác giả Ratiborus, nếu các bạn nào đã sử dụng sẽ biết
 # Download: (Update v1.0 - 07/07/2020)
-+ Link dowload: http://tiny.cc/ahk1rz
++ Link dowload: http://tiny.cc/rcz1rz
 + SHA-1: 180266dcb0ad7104644aa157ddbcb691f701f9f0
 
 <i>Script này do mình tự tay viết ra và có đặt mã SHA-1 ở mục download. Mọi phiên bản được các tác giả khác remake thì mình không biết.
