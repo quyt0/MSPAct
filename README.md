@@ -12,6 +12,6 @@ Script hỗ trợ kích hoạt bản quyền Windows &amp; Office
 + Link dowload: http://tiny.cc/ahk1rz
 + SHA-1: 180266dcb0ad7104644aa157ddbcb691f701f9f0
 
-<i> Script này do mình tự tay viết ra và có đặt mã SHA-1 ở mục download. Mọi phiên bản được các tác giả khác remake thì mình không biết.
-Vì là  mã nguồn mở nên các bạn có thể tham khảo mã nguồn của mình
-Cuối cùng, hi vọng mọi người, đặc biệt là các supporters có thể dùng nó với mục đích hỗ trợ kích hoạt được thuận tiện hơn </i>
+<i>Script này do mình tự tay viết ra và có đặt mã SHA-1 ở mục download. Mọi phiên bản được các tác giả khác remake thì mình không biết.
+  Vì là  mã nguồn mở nên các bạn có thể tham khảo mã nguồn của mình
+  Cuối cùng, hi vọng mọi người, đặc biệt là các supporters có thể dùng nó với mục đích hỗ trợ kích hoạt được thuận tiện hơn.</i>
