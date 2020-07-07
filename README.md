@@ -1,4 +1,4 @@
-# MSPAct
+# Microsoft Product Activator - CMD Version
 Script hỗ trợ kích hoạt bản quyền Windows &amp; Office
 # Các chức năng chính của script:
 + Nhập key để kích hoạt cho Windows / Office
