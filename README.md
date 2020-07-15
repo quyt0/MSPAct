@@ -10,7 +10,7 @@ Script hỗ trợ kích hoạt bản quyền Windows &amp; Office
 + Script này có các chức năng cơ bản tương tự như phần mềm MSAct của tác giả Ratiborus, nếu các bạn nào đã sử dụng sẽ biết
 # Download: (Update v1.0 - 07/07/2020)
 + Link dowload: http://tiny.cc/rcz1rz
-+ SHA-1: 180266dcb0ad7104644aa157ddbcb691f701f9f0
++ SHA-1: 915d45fcdeca8f12109146bc7f8edd2bc7a0ba60
 
 <i>Script này do mình tự tay viết ra và có đặt mã SHA-1 ở mục download. Mọi phiên bản được các tác giả khác remake thì mình không biết.
   
